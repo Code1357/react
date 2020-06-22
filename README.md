@@ -1,2 +1,2 @@
 # react
-React.js&amp;Next.jsを基本に練習
+React.js&amp;Next.jsを練習
